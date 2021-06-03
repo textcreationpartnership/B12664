@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation against sundry abuses practised by diuers lewd &amp; audacious persons falsly naming themselues messengers of her Maiesties Chamber, trauelling from place to place with writings counterfeited in forme of warrants as also against another sort of vagabond persons that carrie counterfeit pasports wherewith to begge and gather almes.</title>
+            <title>Proclamations. 1596-05-03</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12664</idno><idno type="EEBO-CITATION">99850732</idno>
+  <idno type="VID">15956</idno>
+  <idno type="EEBO-PROQUEST">2240857099</idno>
+  <idno type="STC">STC 8249</idno>
+  <idno type="STC">ESTC S115513</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99850732e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12664)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15956)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:100)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation against sundry abuses practised by diuers lewd &amp; audacious persons falsly naming themselues messengers of her Maiesties Chamber, trauelling from place to place with writings counterfeited in forme of warrants as also against another sort of vagabond persons that carrie counterfeit pasports wherewith to begge and gather almes.</title>
+                  <title>Proclamations. 1596-05-03</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>2 leaves   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1596]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Against those with counterfeit warrants for appearance before the Privy Council or with counterfeit briefs for collections--STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Warrants (Law) --  England --  Early works to 1800.</term>
+               <term type="topical_term">Impersonating an officer --  England --  Early works to 1800.</term>
+               <term type="topical_term">Crime --  England --  Early works to 1800.</term>
+               <term type="topical_term">Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:15956:1"/>
+                  <head>
+                     <figure>
+                        <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                        <figDesc>royal blazon surmounted by a crown</figDesc>
+                     </figure>
+                  </head>
+                  <head>❧ The seuerall Rates and taxations for VVages, made and set foorth by the Iustices of Peace, for the Countie of Lancaster.</head>
+                  <p>
+                     <seg rend="decorInit">W</seg>Here in the Parliament holden at Westminster the xii. day of Ianuarie, in the fist yeere of the reigne of our Soueraigne Lady the Queenes Maiesty, it was enac<g ref="char:EOLhyphen"/>ted by the Queene our soueraigne Lady, the Lords spirituall and temporall, and the commons in that Parliament assembled, that the Iustices of the Peace of euery Shire, Riding, &amp; libertie, within the limits of their seuerall commissions, or the more part of them, being resiant within the same, and the Sherife of the Countie, if he conueniently might, and euery Maior, Bailife, or other head offi<g ref="char:EOLhyphen"/>cer within any Citie or Towne corporate, wherein is any Iustices of the Peace within the limits of the said Citie or Towne, should by force of the saide Act, yeerely after Easter at times conuenient, appointed by the same, assemble themselues together, and calling before them such discreete and graue persons of the said County, Citie and Towne, as they should thinke meete, and con<g ref="char:EOLhyphen"/>ferring together, respecting the plentie or scarcity of the time and other circumstances necessarily to be considered, should by vertue of the said Act, within the limits and precincts of their seuerall commissions, limite, rate, and ap<g ref="char:EOLhyphen"/>poynt the wages, as well of such and so many of the said Artificers, handicrafts men, husbandmen, or any other laborer, seruant, or workeman, whose wages in times past hath bene by any law of Statute rated &amp; appointed, as also the wages of all other laborers, artificers, workmen, or apprentices of husbandry, which haue not bene rated, as the same Iustices, Maiors, or head officers within their seuerall cōmissions or liberties, should thinke meete by their discretions to be rated, limited, or appointed, and the same rates &amp; taxations should certifie vnto the Queenes highnes Court of Chancery before a certaine day limited in y<seg rend="sup">e</seg> said Act. Wherupon it should be lawful for the Lord Chancellor, or Lord keeper of the great seale of England, for the time being, vpon declaration thereof to her High<g ref="char:EOLhyphen"/>nesse, her heires or successors, or to the Lords &amp; others of her Maiesties priuie Counsel, to cause Proclamations to be printed &amp; sent down into euery of the said shires and places, conteining the seuerall rates appointed by the said Iustices &amp; other head officers, commanding thereby in her Highnes name, all persons straitly to obserue &amp; keepe the same, vpon the danger of the punishment and forfaitures limited &amp; appoynted by the said Act and Statute.</p>
+                  <p>And where also it is further enacted by the authority aforesaid, that all maner of person and persons, after such Proclamation made, should obserue and keepe the said rates for wages, vpon paine of the forfaitures &amp; penalties conteined in the said Estatute, vntill by further order by Proclamation, according to the purport of the same Esta<g ref="char:EOLhyphen"/>tute, it should be otherwise ordered and proclaimed: Wherefore the Queenes Maiestie, hauing receiued into her saide Court of Chancery, amongst diuers other Certificates, from sundry her Highnesse Shires, Cities and Townes, one Certificate from the Countie of Lancaster, conteining the Rates for wages hereafter fol<g ref="char:EOLhyphen"/>lowing, made and appointed by the Iustices of the Countie of Lancaster, according to the tenour of the same Acte: And minding to haue the same rates put in execution in all pointes, as by the processe of the same Act is prescribed, like as her Maiestie hath and intendeth to doe in all other her Highnesse Counties and Shires, and other places of Libertie within this her Realme: Therefore her Highnesse straightly chargeth and commaundeth all maner person and persons within the Countie of Lancaster, to keepe and obserue in all poyntes the saide rates, taxations, orders and appointments for wages hereafter following and set foorth vpon the paines and forfeitures appointed by the said estatute, and vpon paine of her Highnesse displeasure.</p>
+                  <p>And further her Highnesse pleasure &amp; expresse commaudement is, that all Iustices of Peace, Sherifes, &amp; other Officers of the saide Countie of Lancaster, shall see and cause the same rates duely and seuerely to bee ob<g ref="char:EOLhyphen"/>serued and kept in all points: And this Proclamation to bee vsed in euery behalfe, according to the tenor and effect of the same Act. And her Maiesties further pleasure and commandement is, that if any question, scruple or doubt, shall arise vpon any of the taxations or rates for the sayd Countie of Lancaster, hereunder men<g ref="char:EOLhyphen"/>tioned: That then the same shalbe resolued and determined by her Highnesse Iustices of Peace, that did make and ordeine the same taxations and rates: And that all persons shall performe and keepe the same reso<g ref="char:EOLhyphen"/>lutions, orders, and determinations, so by them to be made and determined touching the same.</p>
+                  <div type="part">
+                     <pb facs="tcp:15956:2"/>
+                     <head>The Countie of Lancaster.</head>
+                     <list>
+                        <item>
+                           <hi>
+                              <seg rend="decorInit">I</seg>Nprimis</hi> no Bailife of Husbandry, chiefe Hinde, or Misier, shall take aboue fourty shillings by yeere and his Liuery, or viii.s. for the same at the election of the said seruant.</item>
+                        <item>Item, no common seruant of husbandry of the age of xiii. yeeres or aboue, not aboue xxvi.s.vii.d. by shall take for wages aboue xxvi.s.viii.d. by yeere, and his liuery, or vi.s.viii.d. for the same, at the election of the said seruant.</item>
+                        <item>Item, no man seruant from the age of xvi. yeeres, to the age of xx. yeeres, shall take for his wages aboue xx.s. by the yeere and his liuery, or v.s. for the same, at the election of the said seruant, and from the age of xx. yares, vnto xxui. yeres, not aboue xxvi.s.viii.d. by yere and his liuery, or v.s. for the same, at the election of the said seruant.</item>
+                        <item>Item, no man seruant vnder the age of xvi. yeeres, shall not take any wages, but sufficient meate, drinke, and apparrell, with other necessaries.</item>
+                        <item>Item, no woman seruant aboue xviii. yeeres of age, shall take for her wages &amp; liuery, aboue xiii.s.iiii.d. by yeere.</item>
+                        <item>Item, no woman seruant aboue the age of xiiii. yeeres, vnto the age of xviii. yeeres, shall take for her wages and liuery, aboue x.s. by yeere.</item>
+                        <item>Item, no woman seruant vnder the age of xiiii. yeeres, shall take any wages, but meate and drinke, and apparrell necessary for their degree.</item>
+                        <item>Item, that no maner of men being husbandry labourers, from the first day of May, vntill the last day of Octo<g ref="char:EOLhyphen"/>ber, shall take by the day with meate and drinke aboue iii.d. and without meate and drinke vi.d. and from the first of October vntill the first of May, shall take by the day with meate and drinke, aboue ii.d. and without meate and drinke v.d. and not aboue.</item>
+                        <item>Item, euery other inferiour man labourer in Hay haruest, or Corne haruest, shall haue and take with meate and drinke ii.d. and without meate and drinke iiii.d. by the day, and euery woman labourer in Hay haruest, shall take with meate and drinke i.d. and without meate and drinke iii.d. and in Corne haruest, euery woman seruant and labourer, shall take with meate and drinke ii.d. and without meate and drinke iiii.d. by the day and not aboue.</item>
+                        <item>Item, euery mower of Hay or Corne, shall haue and take by the day with meate and drinke iiii.d. and without meate and drinke viii.d. and not aboue.</item>
+                        <item>Item, that all the aforesaid labourers to be hired by the weeke or by the moneth, shall take after the rates afore<g ref="char:EOLhyphen"/>said, accompting the number of dayes in the weeke, or moneth, after the rates aforesaide, accompting euery Saturday or Eue of Holy day, but as halfe a day.</item>
+                        <item>Item that all maner of labourers in hedging, ditching, paling, railing, wood making and other Taske worke, shall take for the pearch, yeard, lugge, pole, dosen of wood, and hundreth of fagot, and other Taske worke, as it may and shall be reasonably agreed betweene the hirer and the tasker, according to the qualitie of the worke: the hardnesse, deepenesse, breadth, length, and other nature of the soile, and the worke being therein considered.</item>
+                        <item>A master Mason, a master Carpenter, a master Ioyner, a master Plumber, a master Hellier, a master Plaisterer, and a master Thatcher, and euery of them hauing seruants or apprentices according to the statute, and able to take charge of the worke, shall take by the day with meat and drinke iiii.d. and without meat and drinke viii.d. and not aboue.</item>
+                        <item>Item, euery other Mason, Carpenter, Ioyner, Plumber, Hellier, Plaisterer, Tyler, Shindler, and Cowper, being no master, ne apprentice, shall take by the day with meate and drinke iii.d. and without meate and drinke vi.d. and not aboue. and euery apprentice of the foresaid artes, ii.d. by the day with meate and drinke, and with<g ref="char:EOLhyphen"/>out meate and drinke v.d. and not aboue.</item>
+                        <item>Item, a payre of Sawyers to take by the day with meate and drinke viii.d. and without meate and drinke xvi.d. and for euery hundreth foote of board, or such as saw by Taske, without meate &amp; drinke xviii.d. and not aboue.</item>
+                        <item>Item euery other master artificer or handicrafts man, mencioned in the said statute, shall take by the day with meate and drinke iii.d. and without meate and drinke vi.d. and euery other artificer and apprentice being no master mencioned in the saide act, shall haue by the day with meate and drinke ii.d. and without meate and drinke v.d. and not aboue.</item>
+                     </list>
+                  </div>
+                  <closer>God saue the Queene.<lb/>
+                     <dateline>
+                        <date>August. 30. 1595.</date>
+                     </dateline>
+                  </closer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>❧ Imprinted at London by the Deputies of Christopher Barker, Printer to the Queenes most <hi>excellent Maiestie.</hi>
+                  </p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="royal_proclamation">
+                  <pb facs="tcp:15956:3"/>
+                  <head>❧ By the Queene.</head>
+                  <head type="sub">A Proclamation against sundry abuses practised by diuers lewd &amp; audacious persons falsly naming them<g ref="char:EOLhyphen"/>selues Messengers of her Maiesties Chamber, trauelling from place to place with writings counterfei<g ref="char:EOLhyphen"/>ted in forme of Warrants: As also against another sort of vagabond persons that carrie counterfeit Pasports wherewith to begge and gather almes.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>He Queenes most excellent Maiestie being giuen to vnderstand of certeine most no<g ref="char:EOLhyphen"/>table and lewd practises put in bre by diuers dissolute and audacious persons, to the great slander of her Maiesties seruice, and abuse, charge, and hinderance of her Ma<g ref="char:EOLhyphen"/>iesties louing Subiects: the which deceitfull persons falsly taking vpon them to be Messengers of her Maiesties chamber, &amp; for that purpose vndutifully wearing bores or scutcheons of Armes, as the Messengers doe, being associated with others of like bad disposition, haue of late time, and still doe goe vp and downe the Countrey with Writings in the forme of Warrants, whereunto the names of the Lords and others of her Maiesties Priuy Councell, and other Ecclesiasticall Commissioners, are by them counterfeited; by colour whereof they doe warne Gentlemen, Ministers of the Church, Women, Yeomen, and other her Maiesties Subiects, that dwell in sundrie Counties of the Realme, to appeare before the Lords and others of her Maiesties Priuie Councell, and exact fees of them for their labor and trauaile, as though they had beene expresly sent from the Court by the order of the sayd Lords, to those, whose names are inserted in such counterfeit Warrants. By which slanderous practise, diuers Gentlemen, and other honest persons are not onely defrauded of the mony by this fraudulent meanes extorted from them, but to their further charge and hinderance, do repaire from Countries farre distant vnto the Court, supposing they were sent for by the sayd Lords of her Highnesse Priuy Coun<g ref="char:EOLhyphen"/>cell. And although diuers of these shamelesse counterfeit persons haue (by such meanes as the said Lords haue vsed) beene apprehended, and brought into the Starchamber, where by iust sentence diuers of them haue beene condem<g ref="char:EOLhyphen"/>ned, and set on the Pillorie, lost their eares, and some also marked in the face for their notable abuses, yet such is the audacious and wicked disposition of these most vile and dissolute persons, as they continue more and more this prac<g ref="char:EOLhyphen"/>tise to the notorious abuse of the Lords and others of her Maiesties Priuie Councell, and great hinderance and char<g ref="char:EOLhyphen"/>ges to the Subiects, which shew a duetifull regard in obeying the sayd Warrants, as they ought to doe, supposing them to be good. For reformation of these foule abuses, her Maiesties pleasure is, that all Iustices of the Peace, and other publicke Officers, from hencefoorth shall do their best indeuour, vpon any notice, or iust suspition giuen them for the apprehending of these audacious and wicked Imposters, and to see them safely sent vp to the sayd Lords of her Maiesties Priuie Councell. And because these persons do practise this abuse especially to make vnhonest gaine of the same, her Maiesties pleasure is, that from hencefoorth no Messenger of her Chamber, Groome, or other person, naming themselues Pursuiuants, shall exact or take any fees of any partie, that shall be sent for to appeare before the sayd Lords, vntill they haue made their appearance at the Court before them, neither shall the partie warned giue or make any allowance or other consideration to the Messenger, vntill, vpon his appearance, order shall be taken for the same, which partie required to appeare, is also to come vp in the companie of the Messenger, and to be presented by him to the sayd Lords, or to the Clerke of the Councell attending: and if the Messenger shal refuse to come in his com<g ref="char:EOLhyphen"/>panie, pretending any fained cause or excuse, the partie warned may forbeare his appearance, and if there be many named in one Warrant, their appearance shall be on a certeine day, when the Messenger shall be there also. And if the partie warned shall haue any suspition of the Messenger or of the Warrant to be counterfeit, in that case he may cause the Constable of the Parish, where he dwelleth, or the next publicke Officer, to bring the supposed Messenger before the next Iustice of Peace, where the Warrant may be viewed, and the partie thorowly examined. And if the Iustice of Peace shall finde apparant cause of suspition, her Maiesties pleasure is, he shall deteine the said Messenger in some Prison, vntill the Warrant be sent vp to her Maiesties Priuy Councell, and the trueth may be discouered: or els he shall send the party vnder safe custody to the Court, as he shall thinke good. Where also these base and shamelesse kinde of people the better to colour their lewd dealing, and abuse her Maiesties Subiects, do offer to compound with the parties, whose names are inserted in the counterfeit Warrants, and to dispense with them for a summe of mony,
+<pb facs="tcp:15956:4"/>not to make their appearance before the sayd Lords; whereunto the parties warned to auoyd expenses in comming vp to the Court, or further cause of trouble, do often yeeld: Her Maiesties pleasure is, most straitly to charge and enioyne all and euery person and persons that shall be serued with any Warrant, requiring his or their appearance before her Priuie Councell, not to offer or yeeld to any such agreement with any Messenger, Groome of the Cham<g ref="char:EOLhyphen"/>ber, or other, calling themselues by the name of Pursuiuants, to be forborne for his sayd appearance, vpon paine of imprisonment, and her Maiesties further displeasure. And all Messengers are hereby charged, and specially forbid<g ref="char:EOLhyphen"/>den to make or take any such composition with any partie sent for, vpon paine to loose their place, and to be impriso<g ref="char:EOLhyphen"/>ned, and seuerely punished for their misbehauiour.</p>
+                  <p>Moreouer where there are another sort of vagabond persons that either themselues doe make, or cause counter<g ref="char:EOLhyphen"/>feite Pasports to be made, and licences to begge and gather Almes, pretending that they haue beene hurt and may<g ref="char:EOLhyphen"/>med in her Maiesties seruice, or receiued some other great losse or hinderance by casualty, and vnto those licences doe counterfeit the hands and seales of the said Lords, and others of her Maiesties priuy Counsell, or of some of them, or of some Iustices of the Peace, or of the Generals of her Maiesties forces beyond the Seas, or of the Captaines of com<g ref="char:EOLhyphen"/>panies and other Officers, thereby to defraude her Maiesties subiects, and sometimes repaire to the Churches at the time of Diuine seruice, to make and gather collection by coulour of these counterfeit licences: of which sort, there are a great number dispersed in diuers Counties of the Realme, conspiring also, and combyning themselues toge<g ref="char:EOLhyphen"/>ther in very tumultuous sort to euill purposes: For the auoyding of which abuses, and iust punishment of such wic<g ref="char:EOLhyphen"/>ked and base people, her Maiesties pleasure is, that all Parsons or Vicars of Parishes, Churchwardens, or other her Maiesties Officers, and louing subiects, to whom these kinde of euill disposed persons may resort, shall consider well of the said licences, and finding cause to suspect the same, they shall bring them before the next Iustice of the Peace to be strictly by them examined, and vpon further cause of suspicion, he shall commit them to some Prison vntill hee may be certainely informed from such, whose names are subscribed to the said Pasports or licences, whether the same bee true or counterfeite. And because these latter sort being kind of Rogues and loose people, do often assemble in diuers Counties of the Realme in great numbers together, and commit robberies, spoyles &amp; other outrages, and doe threa<g ref="char:EOLhyphen"/>ten further hurt, as hath bene manifested by the confessions of some of them that haue bene lately apprehended. An Iustices of the Peace and other publike Officers are hereby further commaunded to vse all good and possible meanes for the apprehension of these malefactors, that they may receiue seuere punishment according to the qualitie of their offences, and that thereby also all such further inconuenience, as is by them intended, may be auoyded.</p>
+                  <closer>
+                     <dateline>Giuen at the Court at Greenewich <date>the third day of May, in the xxxviii. yeere of her Maiesties raigne.</date>
+                     </dateline> God saue the Queene.</closer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>❧ Imprinted at London by the Deputies of CHRISTOPHER BARKER, Printer to the Queenes <hi>most excellent Maiestie.</hi> 1596</p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
